@@ -1,5 +1,6 @@
 // heap.cpp
 // Diba Mirza
+// Gabriel Sanders-DeJesus
 
 #include "heap.h"
 #include <iostream>
